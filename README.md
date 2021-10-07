@@ -1,3 +1,3 @@
-# ControleAcessoEstrelaDaMorte
-Projeto para ajudar na explicação do conteúdo de introdução ao SQL Server na live de 08/02/2021 da Digital Innovation One.
-Por favor, não siga este projeto como modelo, ele foi feito de forma simplória para ajudar na explicação.
+# Controle de acessos de naves
+
+Aplicação criada a partir de um modelo da Digital Innovation One. Foram utilizadas as tecnologias e/ou ferramentas: C#, Windows Forms, .NET, SQL Server e consumo da API do Star Wars.
